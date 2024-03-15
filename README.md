@@ -39,7 +39,7 @@ Make sure you have npm package installed on your computer
 Open your cli and clone the repository
 
 ```bash
-git clone [https://github.com/ankushroy25/MedBuddy.git](https://github.com/nabinghosh/MedBuddy.git)
+git clone https://github.com/nabinghosh/MedBuddy.git
 ```
 
 Get into the backend directory and run the following command to start both the frontend and backend server together
